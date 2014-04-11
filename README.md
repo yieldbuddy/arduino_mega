@@ -55,7 +55,7 @@ yieldbuddy v1.15
 -Install script for Raspberry Pi added
 
 
-Project Name Changed To: yieldbuddy -----------------------------------------------------------------
+Project Name Changed To: yieldbuddy
 Website: www.yieldbuddy.com is alive!
 
 
