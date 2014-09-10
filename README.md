@@ -1,4 +1,5 @@
 The default Username and Password are both:   default
+
 See the Raspberry Pi folder's 'readme' for more details.
 
 yieldbuddy v1.17a - May 5, 2013
